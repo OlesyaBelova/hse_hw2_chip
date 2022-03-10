@@ -12,3 +12,7 @@
 ## Образец ENCFF824IQO  
 ДО | ПОСЛЕ  
 --- | ----  
+![](data/IQO1.png) | ![](data/IQOT1.png)   
+![](data/IQO2.png) | ![](data/IQOT2.png)   
+![](data/IQO3.png) | ![](data/IQOT3.png)   
+![](data/IQO4.png) | ![](data/IQOT4.png) 
