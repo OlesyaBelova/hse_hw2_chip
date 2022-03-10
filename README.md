@@ -23,4 +23,7 @@
 ![](data/control3.png)  
 ![](data/control4.png)  
   
+# Выравнивание  
+Я выравнивала чтения на 19 хромосому сборки G38.  
+
 # Peak calling  
