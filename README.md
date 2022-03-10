@@ -15,9 +15,10 @@
 ![](data/IQO1.png) | ![](data/IQOT1.png)   
 ![](data/IQO2.png) | ![](data/IQOT2.png)   
 ![](data/IQO3.png) | ![](data/IQOT3.png)   
-![](data/IQO4.png) | ![](data/IQOT4.png) 
+![](data/IQO4.png) | ![](data/IQOT4.png)  
+
 В контрольном образце качество было заметно лучше по сравнению с экспериментальными, поэтому для него я решила не проводить подрезание чтений и работать так.  
-![](data/control1)  
-![](data/control2)  
-![](data/control3)  
-![](data/control4)  
+![](data/control1.png)  
+![](data/control2.png)  
+![](data/control3.png)  
+![](data/control4.png)  
